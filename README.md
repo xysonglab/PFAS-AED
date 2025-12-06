@@ -98,7 +98,7 @@ This repository implements an **Adaptive Evidential Deep Learning (AEDL)** frame
 
 ### Prerequisites
 ```bash
-# Python 3.7 or higher
+ Python 3.7 or higher
 ```
 ### Install Dependencies
 ```bash
